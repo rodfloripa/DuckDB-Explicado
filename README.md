@@ -1,6 +1,5 @@
 # DuckDB-Explicado
 
-Para atender ao seu pedido de formatação técnica, aqui está o texto organizado com a tag HTML `<p align="justify">` em cada parágrafo, garantindo o alinhamento justificado em visualizadores compatíveis com Markdown/HTML:
 
 ---
 
